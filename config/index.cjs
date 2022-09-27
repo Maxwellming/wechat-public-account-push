@@ -85,7 +85,7 @@ const USER_CONFIG = {
           type: '*生日', name: '老婆', year: '2002', date: '07-20',
         },
         {
-          type: '节日', name: '结婚纪念日', year: '2020', date: '01-18',
+          type: '节日', name: '结婚纪念日', year: '2022', date: '01-18',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
